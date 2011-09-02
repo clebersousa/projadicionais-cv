@@ -1,0 +1,33 @@
+/** Add css rules here for your application. */
+
+.header {
+    padding: 3px 3px 3px 3px;
+}
+
+.content {
+	border-top: thin solid Silver;
+	border-bottom: thin solid Silver;
+}
+
+.footer {
+	padding: 3px 3px 3px 3px;
+}
+
+.developers {
+	color: silver;
+	font-family: symbol, sans-serif;
+}
+
+.login {
+	border-top: medium solid Silver;
+	border-bottom: medium solid Silver;
+
+	width: 220px;
+	height: 100px;
+}
+
+.center {
+	position: relative;
+	left: 50%;
+	top: 50%;
+}
